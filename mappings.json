@@ -1,0 +1,20 @@
+{
+  "diabetes_mellitus": {
+    "icd11_code": "5A11",
+    "namaste_code": "TM2-0001",
+    "allopathy": "Diabetes mellitus",
+    "ayurveda": "Premaha",
+    "unani": "Zyabatis Shakri",
+    "siddha": "Neerilivu",
+    "synonyms": ["diabetes", "sugar disease"]
+  },
+  "hypertension": {
+    "icd11_code": "BA00",
+    "namaste_code": "TM2-0002",
+    "allopathy": "Hypertension",
+    "ayurveda": "Rakta Gadha",
+    "unani": "Saltanat e dam",
+    "siddha": "Oodhu vakai",
+    "synonyms": ["high blood pressure", "blood pressure high"]
+  }
+}
